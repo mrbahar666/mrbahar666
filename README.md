@@ -136,6 +136,6 @@ All of the following are large, live production projects. Their source code is h
 
 ## GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=mrbahar666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub statistics for MD Baharul Ali](https://github-readme-stats.vercel.app/api?username=mrbahar666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![](https://streak-stats.demolab.com?user=mrbahar666&theme=tokyonight&hide_border=true)
+![GitHub contribution streak for MD Baharul Ali](https://streak-stats.demolab.com?user=mrbahar666&theme=tokyonight&hide_border=true)
