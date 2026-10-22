@@ -21,6 +21,12 @@ I have worked on high-volume e-commerce platforms, farm-management platforms and
 
 ---
 
+## Current Focus
+
+Currently focused on the high-performance rebuild of crushmomo.com, the ongoing development of the Shizen platform — website, ERP and point of sale — and production systems for restaurant, retail and farm businesses in Bangladesh.
+
+---
+
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-baharul-ali-831b712b6/)
