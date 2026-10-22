@@ -17,6 +17,7 @@ I have worked on high-volume e-commerce platforms, farm-management platforms and
 - Business systems: ERP, inventory, accounting workflows, reporting and role-based administration
 - Point of sale: web POS and native **Windows POS software**, including offline-capable operation
 - Mobile applications: Android applications for field and farm operations
+- Artificial intelligence: LLM fine-tuning, autonomous agent systems, retrieval-augmented generation (RAG) and multi-model workflows
 - Platform engineering: API design, system integration, performance, Linux server and VPS administration
 
 ---
@@ -24,6 +25,18 @@ I have worked on high-volume e-commerce platforms, farm-management platforms and
 ## Current Focus
 
 Currently focused on the high-performance rebuild of crushmomo.com, the ongoing development of the Shizen platform — website, ERP and point of sale — and production systems for restaurant, retail and farm businesses in Bangladesh.
+
+---
+
+## AI & Agent Engineering
+
+Alongside production business systems, I work hands-on with large language models and autonomous agents:
+
+- **LLM fine-tuning** — QLoRA fine-tuning of Qwen models (4-bit quantisation, LoRA adapters, checkpointing and held-out evaluation), including dedicated language training for Bangla and Banglish
+- **Autonomous agent platforms** — designer and builder of a self-learning autonomous AI platform with persistent memory, an agent harness, a research engine, a skill registry, a training engine and a self-improvement loop
+- **Agent orchestration** — agent frameworks and harnesses (LangGraph, LangChain Deep Agents), sub-agents, durable state and checkpointing, and human-in-the-loop approval boundaries
+- **Multi-model workflows** — parallel research and verification across ChatGPT, Claude and Gemini, model routing, and evaluation of model candidates against baselines before adoption
+- **Applied AI engineering** — retrieval-augmented generation over approved data, tool calling and structured output, permission-aware agents with audit trails and safety boundaries
 
 ---
 
@@ -49,6 +62,7 @@ All of the following are large, live production projects. Their source code is h
 | [crushmomo.com](https://crushmomo.com) | Restaurant E-commerce | Online ordering platform designed and built by me, including the high-performance V2 rebuild, the application backend, and the rider application. |
 | [sushiyakibd.com](https://sushiyakibd.com) | Restaurant Systems | Website and online ordering for Sushi Yaki, together with a complete ERP ecosystem and point-of-sale system. |
 | [shizenspa.com](https://shizenspa.com) | ERP / POS | One-stop system for Shizen: public website, Frappe / ERPNext administration, web POS and a Windows desktop POS. |
+| Bahar Autonomous Evolution AI | AI Platform (R&D) | Self-learning, autonomous AI platform with persistent memory, an agent harness, a research engine and a self-improvement loop, built around a fine-tuned Qwen language model. |
 | Windows POS Software | Desktop — Windows | Point-of-sale software built by me for retail and restaurant counters, designed for fast billing and reliable day-to-day operation alongside the web ERP. |
 
 ---
@@ -113,6 +127,16 @@ All of the following are large, live production projects. Their source code is h
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**AI & LLM**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-615CED?style=for-the-badge&logo=qwen&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 **Cloud, DevOps & Tools**
 
