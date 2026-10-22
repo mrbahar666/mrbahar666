@@ -192,3 +192,13 @@ All of the following are large, live production projects. Their source code is h
 ![GitHub statistics for MD Baharul Ali](https://github-readme-stats.vercel.app/api?username=mrbahar666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![GitHub contribution streak for MD Baharul Ali](https://streak-stats.demolab.com?user=mrbahar666&theme=tokyonight&hide_border=true)
+
+---
+
+## Contact
+
+I am open to discussing large-scale e-commerce platforms, business systems (ERP and POS), mobile applications, digital marketing for growth-stage businesses, and applied AI projects.
+
+- LinkedIn: [linkedin.com/in/md-baharul-ali-831b712b6](https://www.linkedin.com/in/md-baharul-ali-831b712b6/)
+- Email: baharul.bd.it@gmail.com
+- Facebook: [facebook.com/mdbaharulali333](https://www.facebook.com/mdbaharulali333)
