@@ -5,6 +5,20 @@ Dhaka, Bangladesh · baharul.bd.it@gmail.com · [github.com/mrbahar666](https://
 
 ---
 
+## Contents
+
+- [About Me](#about-me)
+- [Current Focus](#current-focus)
+- [AI & Agent Engineering](#ai--agent-engineering)
+- [Digital Marketing](#digital-marketing)
+- [Socials](#socials)
+- [Selected Projects](#selected-projects)
+- [Technology Stack](#technology-stack)
+- [GitHub Statistics](#github-statistics)
+- [Contact](#contact)
+
+---
+
 ## About Me
 
 Senior full-stack developer specialising in large-scale, production systems for e-commerce, agriculture, hospitality and retail businesses. My work is not limited to websites — I design and build the complete operational system behind a business: the customer-facing storefront, the internal ERP and administration, the point-of-sale software used at the counter, and the mobile applications used in the field.
