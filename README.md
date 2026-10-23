@@ -10,7 +10,6 @@ Dhaka, Bangladesh · baharul.bd.it@gmail.com · [github.com/mrbahar666](https://
 - [About Me](#about-me)
 - [Current Focus](#current-focus)
 - [AI & Agent Engineering](#ai--agent-engineering)
-- [Digital Marketing](#digital-marketing)
 - [Socials](#socials)
 - [Selected Projects](#selected-projects)
 - [Technology Stack](#technology-stack)
@@ -31,7 +30,6 @@ I have worked on high-volume e-commerce platforms, farm-management platforms and
 - Business systems: ERP, inventory, accounting workflows, reporting and role-based administration
 - Point of sale: web POS and native **Windows POS software**, including offline-capable operation
 - Mobile applications: Android applications for field and farm operations
-- Digital marketing: senior-level strategy, paid campaigns, social media, SEO and content — currently for Shizen, Crush Momo, Sushi Yaki and Sushi Momo Mirpur
 - Artificial intelligence: LLM fine-tuning, autonomous agent systems, retrieval-augmented generation (RAG) and multi-model workflows
 - Platform engineering: API design, system integration, performance, Linux server and VPS administration
 
@@ -52,20 +50,6 @@ Alongside production business systems, I work hands-on with large language model
 - **Agent orchestration** — agent frameworks and harnesses (LangGraph, LangChain Deep Agents), sub-agents, durable state and checkpointing, and human-in-the-loop approval boundaries
 - **Multi-model workflows** — parallel research and verification across ChatGPT, Claude and Gemini, model routing, and evaluation of model candidates against baselines before adoption
 - **Applied AI engineering** — retrieval-augmented generation over approved data, tool calling and structured output, permission-aware agents with audit trails and safety boundaries
-
----
-
-## Digital Marketing
-
-Alongside development, I lead digital marketing at a senior level for the businesses I work with — currently **Shizen, Crush Momo, Sushi Yaki and Sushi Momo Mirpur**:
-
-- Marketing strategy and campaign planning for launches, offers and seasonal campaigns
-- Paid advertising: Meta Ads (Facebook and Instagram) and Google Ads, managed against cost-per-result and sales targets
-- Social media marketing: content direction, page growth and community management
-- Search engine optimisation (SEO) and content marketing for the businesses' websites
-- Lead generation, conversion optimisation, and performance reporting from real sales and order data
-
-Because the same person runs both the systems and the marketing, campaigns are built on the actual platform — live menus, real stock, order data and customer behaviour — rather than guesswork.
 
 ---
 
@@ -197,7 +181,7 @@ All of the following are large, live production projects. Their source code is h
 
 ## Contact
 
-I am open to discussing large-scale e-commerce platforms, business systems (ERP and POS), mobile applications, digital marketing for growth-stage businesses, and applied AI projects.
+I am open to discussing large-scale e-commerce platforms, business systems (ERP and POS), mobile applications and applied AI projects.
 
 - LinkedIn: [linkedin.com/in/md-baharul-ali-831b712b6](https://www.linkedin.com/in/md-baharul-ali-831b712b6/)
 - Email: baharul.bd.it@gmail.com
