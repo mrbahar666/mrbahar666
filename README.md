@@ -1,7 +1,7 @@
 # MD Baharul Ali
 
 **Senior Full-Stack Developer — E-commerce, ERP, POS & Mobile Systems**
-Dhaka, Bangladesh · baharul.bd.it@gmail.com · [github.com/mrbahar666](https://github.com/mrbahar666)
+Dhaka, Bangladesh · baharul.bd.it@gmail.com · [github.com/mrbahar666](https://github.com/mrbahar666) · [Portfolio](https://mrbahar666.github.io/)
 
 ---
 
@@ -184,5 +184,6 @@ All of the following are large, live production projects. Their source code is h
 I am open to discussing large-scale e-commerce platforms, business systems (ERP and POS), mobile applications and applied AI projects.
 
 - LinkedIn: [linkedin.com/in/md-baharul-ali-831b712b6](https://www.linkedin.com/in/md-baharul-ali-831b712b6/)
+- Portfolio: [mrbahar666.github.io](https://mrbahar666.github.io/)
 - Email: baharul.bd.it@gmail.com
 - Facebook: [facebook.com/mdbaharulali333](https://www.facebook.com/mdbaharulali333)
